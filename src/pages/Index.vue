@@ -5,7 +5,7 @@
       <div class="text-h5 text-bold">My Memories Crafts</div>
       <div class="row q-gutter">
         <q-btn flat label="Início" to="/" />
-        <q-btn flat label="Coleções" to="admin" />
+        <q-btn flat label="Coleções" to="Produtos" />
         <q-btn flat label="My Kitchen" />
         <q-btn flat label="Contato" />
       </div>
@@ -63,30 +63,31 @@ import kitDigital from 'src/assets/kit-digital.png.jpeg'
 import papel4 from 'src/assets/211.jpeg'
 import papel5 from 'src/assets/212.jpeg'
 import papel6 from 'src/assets/213.jpeg'
+import facas from 'src/assets/223.jpeg'
 
 const produtos = [
   {
     id: '1',
-    titulo: 'Kit Digital My Kitchen',
-    descricao: 'Contém 10 papéis digitais para imprimir',
+    titulo: 'My Kitchen',
+    descricao: '',
     imagem: kitDigital
   },
   {
     id: '2',
-    titulo: 'Papel Digital My Kitchen 4',
-    descricao: 'Alta resolução 300 DPI',
+    titulo: '',
+    descricao: '',
     imagem: papel4
   },
   {
     id: '3',
-    titulo: 'Papel Digital My Kitchen 5',
-    descricao: 'Pronto para imprimir em A4',
+    titulo: '',
+    descricao: '4',
     imagem: papel5
   },
   {
     id: '4',
-    titulo: 'Papel Digital My Kitchen 6',
-    descricao: 'Ideal para scrapbooking artesanal',
+    titulo: '',
+    descricao: '',
     imagem: papel6
   }
 ]
