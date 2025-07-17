@@ -63,7 +63,6 @@ import kitDigital from 'src/assets/kit-digital.png.jpeg'
 import papel4 from 'src/assets/211.jpeg'
 import papel5 from 'src/assets/212.jpeg'
 import papel6 from 'src/assets/213.jpeg'
-import facas from 'src/assets/223.jpeg'
 
 const produtos = [
   {

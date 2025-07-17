@@ -29,7 +29,7 @@
 <script setup>
 import { useRouter } from 'vue-router'
 import facas from 'src/assets/223.jpeg'
-import protetor from 'src/assets/protetor.jpeg'
+import protetor from 'assets/224.jpeg'
 
 const router = useRouter()
 
